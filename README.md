@@ -6,6 +6,7 @@ Le rush00 marche mais il manque quelque chose ( Genre un dossier ex00 )
 Le rush02 n'est que poussière
 
 Shell00
+Dernier KO car 42 au lieu de 41
 
 ![Capture d’écran 2021-07-22 à 15 24 25](https://user-images.githubusercontent.com/60488924/126646678-1640408a-43cb-4cbe-a79c-c495ffd3552b.png)
 
@@ -30,6 +31,7 @@ C03
 ![Capture d’écran 2021-07-22 à 15 31 01](https://user-images.githubusercontent.com/60488924/126647277-c2e74c91-d123-48dc-8978-91f74c07e013.png)
 
 C04
+Dernier KO car pas géré quand chars autre que des nombres dans la str
 
 ![Capture d’écran 2021-07-22 à 15 25 05](https://user-images.githubusercontent.com/60488924/126646868-1e861713-ffad-4e31-8528-6004fafe82a1.png)
 
@@ -66,5 +68,6 @@ C12
 ![Capture d’écran 2021-07-22 à 15 25 45](https://user-images.githubusercontent.com/60488924/126646968-41fb2141-2938-499c-a103-ebadf79214b9.png)
 
 C13
+Derniers KO et pas le temps
 
 ![Capture d’écran 2021-07-22 à 15 25 50](https://user-images.githubusercontent.com/60488924/126646989-3b15397f-0711-45a9-92c3-08746d65b9b2.png)
