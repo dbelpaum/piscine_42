@@ -1,0 +1,5 @@
+Credentials cache: API:44DBB158-3332-48E9-83BF-D5E178527BA9
+        Principal: dbelpaum@42.FR
+
+  Issued                Expires               Principal
+Jun 28 12:01:11 2021  Jul  5 12:01:05 2021  krbtgt/42.FR@42.FR
