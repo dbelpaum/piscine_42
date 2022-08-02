@@ -1,9 +1,15 @@
 # piscine_42
 Ma piscine à 42 (Juillet 2021)
 
-Le BSQ est loin d'être le plus opti mais il passe a 100
+Mes main() de test sont disponibles sur le discord que j'utilisais pendant ma piscine : https://discord.gg/mxAweCUPuv (Il en manque certains, si vous voulez en ajouter vous pouvez me les envoyer sur ce même discord).
 
-Le rush00 marche mais il manque quelque chose ( Genre un dossier ex00 )
+Les pdf sont disponibles dans le dossier sujets et à la racine de chaque module.
+
+Le BSQ est loin d'être le plus opti mais il passe a 100.
+
+Le rush00 marche avec les bonus mais il manque le dossier ex00.
+
+rush 01 validé à 100
 
 Le rush02 n'est que poussière
 
