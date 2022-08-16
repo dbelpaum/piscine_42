@@ -1,7 +1,8 @@
 # piscine_42
 Ma piscine à 42 (Juillet 2021)
 
-Mes main() de test sont disponibles sur le discord que j'utilisais pendant ma piscine : https://discord.gg/mxAweCUPuv (Il en manque certains, si vous voulez en ajouter vous pouvez me les envoyer sur ce même discord).
+Mes main() de test sont disponibles sur le discord que j'utilisais pendant ma piscine : https://discord.gg/mxAweCUPuv (Il en manque certains).
+Il y a aussi un salon général où vous pouvez poser vos questions à propos de l'école.
 
 Les pdf sont disponibles dans le dossier sujets et à la racine de chaque module.
 
