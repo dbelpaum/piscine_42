@@ -65,6 +65,7 @@ C09
 ![Capture d’écran 2021-07-22 à 15 25 30](https://user-images.githubusercontent.com/60488924/126646945-a2aceb4b-f35f-4c35-b022-8e71de509073.png)
 
 C10
+Petite coquille dans l'ex03, j'ai maladroitement copié les ex{0,2} dans le dossier mais c'est passé
 
 ![Capture d’écran 2021-07-22 à 15 25 35](https://user-images.githubusercontent.com/60488924/126646954-d3c206bd-06d6-4b90-8ea3-0228041b5153.png)
 
